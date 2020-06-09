@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_start"
+        android:title="@string/start_page"
+        android:icon="@drawable/start_page"/>
+
+    <item
+        android:id="@+id/menu_favorites"
+        android:title="@string/favorites_page"
+        android:icon="@drawable/favorites_page" />
+
+    <item
+        android:id="@+id/menu_group"
+        android:title="@string/group_page"
+        android:icon="@drawable/ic_group_page" />
+
+</menu>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Университет</string>
+    <string name="toolbar_title">УНИВЕРСИТЕТ</string>
+    <string name="start_page">Начальная страница</string>
+    <string name="group_page">Сгруппированные</string>
+    <string name="favorites_page">Избранные</string>
+
+    <string name="stub"></string>
+    <string name="do_not_search_data">Нет данных</string>
+    <string name="exit"><u>Выйти</u></string>
+    <string name="activity">Должность: %s</string>
+    <string name="division">Подразделение: %s</string>
+    <string name="nameSurname">%s %s</string>
+    <string name="stats">Показатели</string>
+    <string name="stats_sum">Зачислено / подало заявлений</string>
+    <string name="stats_default">%s из %s</string>
+    <string name="favorites">Избранные показатели</string>
+    <string name="add_more_big">ДОБАВИТЬ ЕЩЕ</string>
+    <string name="select_priemka">Укажите показатели по приемной комиссии</string>
+    <string name="other_category">Другие категории</string>
+    <string name="app_about">Приложение для ректората</string>
+    <string name="auth">АВТОРИЗАЦИЯ</string>
+    <string name="user_name_hint">введите имя пользователя</string>
+    <string name="user_password_hint">введите пароль</string>
+    <string name="user_name_title">Имя пользователя</string>
+    <string name="user_password_title">Пароль</string>
+    <string name="enter">ВОЙТИ</string>
+    <string name="all_data">Все аналитические показатели по категориям</string>
+    <string name="science">Наука</string>
+    <string name="hierarchy">Иерархия</string>
+    <string name="parameters">Параметры</string>
+    <string name="students_contingent">Контингент студентов</string>
+    <string name="gradueted">Выпуски</string>
+    <string name="distribution">Распределение</string>
+    <string name="name_field">Наименование</string>
+    <string name="overall">Общий итог</string>
+    <string name="all_staff">Штат сотрудников</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/errorStateHolder"
+    android:layout_width="match_parent"
+    android:layout_height="600dp"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/titlePlaceHolder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:layout_marginTop="56dp"
+        android:gravity="center"
+        android:textColor="@color/text_color_black"
+        android:textSize="24sp"
+        tools:text="@string/do_not_search_data" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/stub"
+        android:padding="32dp"
+        android:src="@drawable/logo_bfu" />
+
+</FrameLayout>
